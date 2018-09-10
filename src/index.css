@@ -1,5 +1,13 @@
 body {
   margin: 0;
   padding: 0;
-  font-family: sans-serif;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+.logo-bosch{
+  height: 100px;
+  width: auto;
+}
+
+h3{
+  font-weight: 300;
 }
